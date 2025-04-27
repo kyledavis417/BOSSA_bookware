@@ -3,7 +3,6 @@
 #
 # Version
 #
-VERSION?=$(shell git describe --tags --dirty)
 WXVERSION=3.2
 
 #
